@@ -18,6 +18,7 @@ unix:!macx {
 win32-g++ {
     LIBS += -L/opt/gdal-mingw/lib/ -lgdal -lexpat -lz -ltiff -lproj -ljasper -lodbc32 -lodbccp32 -lpsapi
 
+# workaround for MINGW64 locale_t definition
     DEFINES += locale_t=_locale_t
 
     INCLUDEPATH += /opt/gdal-mingw/include
