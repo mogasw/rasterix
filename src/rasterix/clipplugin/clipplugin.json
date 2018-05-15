@@ -1,0 +1,11 @@
+{
+    "Name" : "Clip",
+    "Version" : "1.0.0",
+    "CompatVersion" : "1.0.0",
+    "Vendor" : "Moga Software s.r.l.",
+    "Copyright" : "(C) 2018 Moga Software s.r.l.",
+    "License" : "GPLv2",
+    "Description" : "Clip a raster dataset to top right and bottom left coordinates.",
+    "Url" : "http://www.mogasw.com/products/rasterix"
+}
+

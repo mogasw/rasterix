@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>grid_background.png</file>
+        <file>stylesheet.qss</file>
+        <file>globe.png</file>
+        <file>rasterix.png</file>
+    </qresource>
+</RCC>

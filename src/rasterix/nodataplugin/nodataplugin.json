@@ -1,0 +1,10 @@
+{
+    "Name" : "No data",
+    "Version" : "1.0.0",
+    "CompatVersion" : "1.0.0",
+    "Vendor" : "Moga Software s.r.l.",
+    "Copyright" : "(C) 2018 Moga Software s.r.l.",
+    "License" : "GPLv2",
+    "Description" : "Edit no data samples of a raster dataset.",
+    "Url" : "http://www.mogasw.com/products/rasterix"
+}

@@ -1,0 +1,10 @@
+{
+    "Name" : "Height map recolor",
+    "Version" : "1.0.0",
+    "CompatVersion" : "1.0.0",
+    "Vendor" : "Moga Software s.r.l.",
+    "Copyright" : "(C) 2018 Moga Software s.r.l.",
+    "License" : "GPLv2",
+    "Description" : "Set the color table of a raster dataset with an elevation attribute.",
+    "Url" : "http://www.mogasw.com/products/rasterix"
+}

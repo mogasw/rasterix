@@ -1,0 +1,10 @@
+{
+    "Name" : "Contour",
+    "Version" : "1.0.0",
+    "CompatVersion" : "1.0.0",
+    "Vendor" : "Moga Software s.r.l.",
+    "Copyright" : "(C) 2018 Moga Software s.r.l.",
+    "License" : "GPLv2",
+    "Description" : "Extract contouring from a raster dataset.",
+    "Url" : "http://www.mogasw.com/products/rasterix"
+}

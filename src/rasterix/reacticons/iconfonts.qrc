@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Zocial.ttf</file>
+        <file>SimpleLineIcons.ttf</file>
+        <file>Octicons.ttf</file>
+        <file>MaterialIcons.ttf</file>
+        <file>MaterialCommunityIcons.ttf</file>
+        <file>Ionicons.ttf</file>
+        <file>Foundation.ttf</file>
+        <file>FontAwesome.ttf</file>
+        <file>Feather.ttf</file>
+        <file>EvilIcons.ttf</file>
+        <file>Entypo.ttf</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,27 @@
+#captionLabel {
+    background-color: $LIGHT_COLOR$;
+    font-weight: bold;
+}
+
+#tabSelector {
+    background-color: $DARK_COLOR$;
+}
+
+#stackedWidget {
+    background-color: $WINDOW_COLOR$;
+    border-bottom: 1px solid $DARK_COLOR$;
+}
+
+#tabSelector QToolButton {
+    border-radius: 0px;
+    border: 0px;
+    background-color: $DARK_COLOR$;
+}
+
+#tabSelector QToolButton:checked {
+    background-color: $WINDOW_COLOR$;
+}
+
+#tabSelector QToolButton:hover {
+    background-color: $SELECTION_COLOR$;
+}

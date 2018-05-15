@@ -1,0 +1,10 @@
+{
+    "Name" : "Export",
+    "Version" : "1.0.0",
+    "CompatVersion" : "1.0.0",
+    "Vendor" : "Moga Software s.r.l.",
+    "Copyright" : "(C) 2018 Moga Software s.r.l.",
+    "License" : "GPLv2",
+    "Description" : "Export a raster dataset in the selected output format.",
+    "Url" : "http://www.mogasw.com/products/rasterix"
+}
