@@ -64,7 +64,7 @@ AboutDialog::~AboutDialog()
  */
 void AboutDialog::on_websiteButton_clicked()
 {
-    QDesktopServices::openUrl(QUrl("https://www.mogasw.com/rasterix"));
+    QDesktopServices::openUrl(QUrl("https://github.com/mogasw/rasterix"));
 }
 
 /*!
