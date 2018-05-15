@@ -20,8 +20,10 @@ At the moment, rasterix can perform the following tasks:
    
 More plugins / capabilities will be implemented in the future, so please stay tuned.
 
+![Imgur](https://i.imgur.com/fOzbeGr.jpg)
+
 # Downloads
-Vist the Releases section [here](https://github.com/mogasw/rasterix/releases/) for pre-built binary packages.
+Vist the Releases section [here](https://github.com/mogasw/rasterix/releases/) for pre-built binary packages for Windows (.zip), Linux (.AppImage) and macOS (.dmg). These are all 64 bit binaries.
 
 # Compilation instructions
 
