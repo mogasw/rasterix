@@ -1,6 +1,6 @@
 include(gdal.pri)
 
-# BUILD VERSION
+# BUILD VERSION based on git tags
 GIT_VERSION = $$system(git --git-dir $$PWD/../../.git --work-tree $$PWD/../ describe --always --tags)
 GIT_VERSION ~= s/-/"."
 GIT_VERSION_PARTS = $$split(GIT_VERSION, ".")
