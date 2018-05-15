@@ -120,7 +120,7 @@
       <item>
        <widget class="QLabel" name="label_7">
         <property name="text">
-         <string>(C) Moga Software s.r.l.</string>
+         <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;(C) Moga Software s.r.l. (&lt;a href=&quot;https://www.mogasw.com&quot;&gt;https://www.mogasw.com&lt;/a&gt;)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
         </property>
        </widget>
       </item>
